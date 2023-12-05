@@ -1,13 +1,3 @@
-==================================
-  ____  _        ____             
- |  _ \(_)_ __  |  _ \ _   _ _ __ 
- | |_) | | '__| | |_) | | | | '__|
- |  __/| | |    |  __/| |_| | |   
- |_|   |_|_|    |_|    \__,_|_|   
-                           	  
-==================================
-
-Thanks for downloading Pir Pur!
 Pir Pur is a turn-based Roguelite with combat system inspired by the Disciples series.
 Defeat all enemies with a team of weird creatures.
 

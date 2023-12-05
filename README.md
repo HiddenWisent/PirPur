@@ -9,9 +9,7 @@ This was my first ever attempt at making a functioning video game.
 
 Combat environment prefabs from Asset Store, other assets made by me.
 
-==================================
-
-Installation:
+# Installation:
 
 Download the build from: https://wisent.itch.io/pirpur
 
@@ -19,21 +17,20 @@ OR
 
 Use uploaded files to create your own Unity project and build the game
 
-==================================
+# Gameplay
 
-Controls:
+## Controls:
 
 - Left Mouse Button - Menu Buttons / Attack Selected Unit
 - Right Mouse Button - Inspect
 
-
-Win/Lose Conditions:
+## Win/Lose Conditions:
 
 - Run is won when all enemy teams have been defeated.
 - Run is lost after losing any fight.
 
 
-Adventure Map:
+## Adventure Map:
 
 - You can choose any combination of all 3 units at the start of the run.
 - You may inspect units with Right Mouse Button
@@ -42,7 +39,7 @@ Adventure Map:
 - Each battle won rewards player with a new unit
 
 
-Combat:
+## Combat:
 
 - You can rearrange your team on Adventure Map or directly before starting combat
 - Units attack one time per turn, with order based on their speed
@@ -56,7 +53,7 @@ Combat:
 - All units deal up to 5 random bonus damage on each attack
 
 
-Tips:
+## Tips:
 
 - Try to spread out enemy damage to avoid casualties
 - Try to focus down single units to lower enemy's damage output
